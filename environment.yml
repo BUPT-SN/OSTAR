@@ -1,4 +1,4 @@
-name: new_detect
+name: OSTAR
 channels:
   - anaconda
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
